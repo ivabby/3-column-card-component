@@ -27,7 +27,7 @@ const Card = (props) => {
       <p className={`mt-3 mb-3 ${classes.p}`}>{props.data.description}</p>
       <button
         className={`btn ${classes.btn} ${classes.color} mt-4 mb-1 col-6 col-sm-9 col-lg-10`}
-        style={{ backgroundColor: "white", color: props.data.background_color }}
+        style={{ backgroundColor: "hsl(0, 0%, 95%)", color: props.data.background_color }}
       >
         Learn More
       </button>
