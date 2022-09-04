@@ -1,0 +1,13 @@
+.btn {
+  border: none;
+  border-radius: 20px;
+  font-size: 15px !important;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.color {
+  color: hsl(0, 0%, 95%);
+}
